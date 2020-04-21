@@ -14,12 +14,10 @@ echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo $i" |"$cy"    BANGLADESH DARK TERMUX ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku"  MD Ali         [FR13ND8]"$i"          |"
-echo $i" |"$pu" FACEBOOK :"$ku" MD Ali        "$i"                   |"
-echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
-echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
+echo $i" |"$pu" AUTHOR :"$ku"   Alamin Akondo "$i"                   |"
+echo $i" |"$pu" FACEBOOK :"$ku" Alamin Akondo "$i"                   |"
 echo $i" |"$pu" contact WhatsApp :"$ku"  01996584456"$i"             |"
-echo $i" |"$pu" contact Gmail :"$ku"    mda720078@gmail.com"$i"      |"
+echo $i" |"$pu" contact Gmail :"$ku" alaminakondo11@gmail.com"$i"    |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
@@ -48,7 +46,7 @@ echo $i"|"$me"18"$i" |"$cy"   INSTALL THE CODE       "$i"|"$i"    |"$cy" L"$i" |
 echo $i"|"$me"19"$i" |"$cy"   EXIT/EXIT PROGRAM      "$i"|"$i"    |"$cy"  "$i" |"
 echo $i"────────────────────────────────    ─────"
 echo
-echo $me"┌==="$bi"["$i"FR13ND8"$bi"]"$me"======"$bi"["$i""Choose the Number""$bi"]"
+echo $me"┌==="$bi"["$i"Alamin"$bi"]"$me"======"$bi"["$i""Choose the Number""$bi"]"
 echo $me"¦"
 read -p"└──# " pil
 

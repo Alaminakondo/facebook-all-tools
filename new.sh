@@ -26,7 +26,7 @@ echo $i"|"$me" 2"$i" |"$cy" BRUTEFORCE FB BR1G4D3    "$i"|"$i"    |"$cy" O"$i" |
 echo $i"|"$me" 3"$i" |"$cy" BRUTEFORCE FB iqbalz     "$i"|"$i"    |"$cy" R"$i" |"
 echo $i"|"$me" 4"$i" |"$cy" BRUTEFORCE FB MBF        "$i"|"$i"    |"$cy" K"$i" |"
 echo $i"|"$me" 5"$i" |"$cy" FACEBRUTE N1ght420       "$i"|"$i"    |"$cy" S"$i" |"
-echo $i"|"$me" 6"$i" |"$cy" BRUTEFORCE FB ( root )   "$i"|"$i"    |"$cy" H"$i" |"
+echo $i"|"$me" 6"$i" |"$cy" DDOS ATTACK  XERXES      "$i"|"$i"    |"$cy" H"$i" |"
 echo $i"────────────────────────────────"$i"    |"$cy" O"$i" |"
 echo $i"────────────────────────────────"$i"    |"$cy" P"$i" |"
 echo $i"|"$me" 7"$i" |"$cy" YAHOO CLONING FACEBOOK   "$i"|"$i"    ─────"
@@ -105,9 +105,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/thelinuxchoice/facebash.git
-cd facebash
-bash facebash.sh
+git clone https://github.com/mdali889/xerxes.git
+cd xerxes
+gcc xerxes.c -o xerxes
 fi
 
 if [ $pil = 7 ]

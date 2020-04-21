@@ -34,7 +34,7 @@ echo $i"|"$me" 8"$i" |"$cy" PROFILE GUARD FACEBOOK   "$i"|"$i"    |"$cy" F"$i" |
 echo $i"|"$me" 9"$i" |"$cy" REPORT FACEBOOK WORK     "$i"|"$i"    |"$cy" A"$i" |"
 echo $i"|"$me"10"$i" |"$cy" AUTO REACTION FACEBOOK   "$i"|"$i"    |"$cy" C"$i" |"
 echo $i"|"$me"11"$i" |"$cy" INFORMATION FACEBOOK     "$i"|"$i"    |"$cy" E"$i" |"
-echo $i"|"$me"12"$i" |"$cy" BOT KOMEN FACEBOOK       "$i"|"$i"    |"$cy" B"$i" |"
+echo $i"|"$me"12"$i" |"$cy" FRIEND LIST CLONE        "$i"|"$i"    |"$cy" B"$i" |"
 echo $i"|"$me"13"$i" |"$cy" AUTOLIKE FACEBOOK        "$i"|"$i"    |"$cy" O"$i" |"
 echo $i"────────────────────────────────"$i"    |"$cy" O"$i" |"
 echo $i"|"$me"14"$i" |"$cy" PHISING FACEBOOK 1       "$i"|"$i"    |"$cy" K"$i" |"
@@ -167,10 +167,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-pip2 install mechanize
-git clone https://github.com/Senitopeng/Botkomena.git
-cd Botkomena
-python2 botkomena.py
+git clone https://github.com/mdali889/clone-tools.git
+cd clone-tools
+python2 dark.py
 fi
 
 if [ $pil = 13 ]

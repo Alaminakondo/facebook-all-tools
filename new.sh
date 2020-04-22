@@ -106,6 +106,9 @@ clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/mdali889/xerxes.git
+ls
+cd xerxes
+ls
 cd xerxes
 ls
 gcc xerxes.c -o xerxes

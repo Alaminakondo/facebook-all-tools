@@ -108,7 +108,6 @@ sleep 1
 git clone https://github.com/mdali889/xerxes.git
 cd xerxes
 gcc xerxes.c -o xerxes
-./xerxes 
 fi
 
 if [ $pil = 7 ]

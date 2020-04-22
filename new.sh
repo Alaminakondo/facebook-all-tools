@@ -21,7 +21,7 @@ echo $i" |"$pu" contact Gmail :"$ku" alaminakondo11@gmail.com"$i"    |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
-echo $i"|"$me" 1"$i" |"$cy" BRUTEFORCE FB PHP        "$i"|"$i"    |"$cy" W"$i" |"
+echo $i"|"$me" 1"$i" |"$cy" BRUTEFORCE FB            "$i"|"$i"    |"$cy" W"$i" |"
 echo $i"|"$me" 2"$i" |"$cy" BRUTEFORCE FB BR1G4D3    "$i"|"$i"    |"$cy" O"$i" |"
 echo $i"|"$me" 3"$i" |"$cy" BRUTEFORCE FB iqbalz     "$i"|"$i"    |"$cy" R"$i" |"
 echo $i"|"$me" 4"$i" |"$cy" BRUTEFORCE FB MBF        "$i"|"$i"    |"$cy" K"$i" |"
@@ -55,9 +55,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/fbbrute
-cd fbbrute
-php fb.php
+git clone https://github.com/mdali889/Bruteforce.git
+cd Bruteforce
+python2 Crack.py
 fi
 
 if [ $pil = 2 ]
